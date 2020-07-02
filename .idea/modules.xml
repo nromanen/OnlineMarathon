@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OnlineMarathon.iml" filepath="$PROJECT_DIR$/OnlineMarathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnlineMarathon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OnlineMarathon_main.iml" group="OnlineMarathon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OnlineMarathon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OnlineMarathon_test.iml" group="OnlineMarathon" />
+    </modules>
+  </component>
+</project>
